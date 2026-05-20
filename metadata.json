@@ -1,0 +1,6 @@
+{
+  "name": "AI Engineering Lab",
+  "description": "A protocol testing tool for multi-format AI responses (ASCII, Mermaid, and Text Analysis).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
